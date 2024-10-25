@@ -7,7 +7,7 @@ The program initially has three complete use cases: signup, login, and change pa
 
 The assignment is split into two phases. Phase 1 should be completed individually ahead of your next lab;
 you may work with other students, but make sure to follow all steps yourself and push your own code to your
-fork of this GitHub repo.
+fork of this GitHub repo. 
 
 Phase 2 will be completed with your project group during your next lab.
 
